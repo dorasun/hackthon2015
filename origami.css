@@ -1,0 +1,42 @@
+body {
+	background-color: #DB7093;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
+#heading {
+	text-align: center;
+	font-family:verdana;
+	font-size:250%;
+}
+
+#caption {
+	text-align: center;
+	font-family: avenir;
+	font-size: 150%;
+}
+
+#title {
+	font-family: avenir;
+	font-size: 32px;
+}
+
+#text {
+	font-size: 20px;
+	font-family: avenir;
+}
+
+#text2 {
+	font-size: 20px;
+	font-family: avenir;
+}
+
+#text3 {
+	font-size: 20px;
+	font-family: avenir;
+}
+
+img {
+	width: 500px;
+	height: 500px;
+}
